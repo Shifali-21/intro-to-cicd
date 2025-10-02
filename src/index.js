@@ -1,5 +1,5 @@
 function sayHi(name) {
-  return `Hello there ${name}`// string interpolation example
+  return `Hello there ${name}` 
 }
 
 module.exports = sayHi
